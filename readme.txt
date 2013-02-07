@@ -1,6 +1,6 @@
 === Hey It's a Flickr Widget ===
-Contributors: GeorgeGecewicz
-Donate Link: http://heyitsgeorge.com/flickr
+Contributors: czief
+Donate Link: http://czief.co/donate
 Tags: flickr, widget, photos, images, sidebar, footer, flicker, javascript, jquery, simple, lightweight, light
 Requires at Least: 2.8
 Tested up To: 3.2.1
